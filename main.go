@@ -1,11 +1,10 @@
 package main
 
 import (
-	"fmt"
-	f "october2023/day1"
+	// f "october2023/day1"
+	f "october2023/day2"
 )
 
 func main() {
-	ans := f.BestReverse("let's take leetcode contest")
-	fmt.Println(ans)
+	f.Testday2()
 }
