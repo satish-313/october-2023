@@ -1,11 +1,12 @@
 package main
 
 import (
-	// f "october2023/day1"
-	//	f "october2023/day2"
-	f "october2023/day3"
+	// "october2023/day1"
+	// "october2023/day2"
+	// "october2023/day3"
+	"october2023/day"
 )
 
 func main() {
-	f.Test3()
+	day.Test5()
 }
