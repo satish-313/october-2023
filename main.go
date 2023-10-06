@@ -8,5 +8,5 @@ import (
 )
 
 func main() {
-	day.Test5()
+	day.Test6()
 }
